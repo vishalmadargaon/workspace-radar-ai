@@ -1,0 +1,6 @@
+{
+  "name": "Workspace Radar AI - Lead Finder",
+  "description": "Commercial Workspace Prospecting Engine & Lead Intelligence for Flexible Office Operators. Scrapes Google, LinkedIn, Maps, and Reddit with Gemini 3.8 Flash brain up to 200 leads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
